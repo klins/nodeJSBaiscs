@@ -1,2 +1,4 @@
 # nodeJSBasics
-new line
+npm init
+npm install undersore -S
+npm install
